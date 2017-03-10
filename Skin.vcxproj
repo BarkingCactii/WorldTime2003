@@ -337,6 +337,10 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="background.tga" />
+    <Image Include="data\eqcomments.JPG" />
+    <Image Include="data\screen.gif" />
+    <Image Include="data\screen1.gif" />
+    <Image Include="data\screen2.gif" />
     <Image Include="Egg copy.bmp" />
     <Image Include="Egg copy.tga" />
     <Image Include="Egg.tga" />
@@ -385,6 +389,63 @@
     <Image Include="text background.bmp" />
     <Image Include="text background.tga" />
     <Image Include="text.bmp" />
+    <Image Include="Work\25.gif" />
+    <Image Include="Work\2green.gif" />
+    <Image Include="Work\Arrow-e-.gif" />
+    <Image Include="Work\b-studio.tga" />
+    <Image Include="Work\b1.gif" />
+    <Image Include="Work\b2.gif" />
+    <Image Include="Work\ball.bmp" />
+    <Image Include="Work\ball.gif" />
+    <Image Include="Work\ball5-2.bmp" />
+    <Image Include="Work\ball9.gif" />
+    <Image Include="Work\Blue Notepad.bmp" />
+    <Image Include="Work\button hilite.bmp" />
+    <Image Include="Work\button normal.bmp" />
+    <Image Include="Work\button template.bmp" />
+    <Image Include="Work\Button Template.tga" />
+    <Image Include="Work\checkboxes.tga" />
+    <Image Include="Work\close hilite.bmp" />
+    <Image Include="Work\close normal.bmp" />
+    <Image Include="Work\dot16 copy.bmp" />
+    <Image Include="Work\dot16.gif" />
+    <Image Include="Work\dot17 copy.bmp" />
+    <Image Include="Work\dot17.gif" />
+    <Image Include="Work\flag copy.tga" />
+    <Image Include="Work\flag hilite.bmp" />
+    <Image Include="Work\flag hilite.tga" />
+    <Image Include="Work\flag normal.tga" />
+    <Image Include="Work\flag.gif" />
+    <Image Include="Work\help hilite.bmp" />
+    <Image Include="Work\help normal.bmp" />
+    <Image Include="Work\Help normal.tga" />
+    <Image Include="Work\left arrow hilite.bmp" />
+    <Image Include="Work\left arrow hilite.tga" />
+    <Image Include="Work\left arrow normal.bmp" />
+    <Image Include="Work\left arrow normal.tga" />
+    <Image Include="Work\main.tga" />
+    <Image Include="Work\Mask_ExitButton.tga" />
+    <Image Include="Work\Mask_MinimizeButton.tga" />
+    <Image Include="Work\min hilite.bmp" />
+    <Image Include="Work\min normal.bmp" />
+    <Image Include="Work\nextoff.tga" />
+    <Image Include="Work\nexton.tga" />
+    <Image Include="Work\options hilite.bmp" />
+    <Image Include="Work\Options normal.bmp" />
+    <Image Include="Work\Options.bmp" />
+    <Image Include="Work\prevoff.tga" />
+    <Image Include="Work\prevon.tga" />
+    <Image Include="Work\radiobuttons.tga" />
+    <Image Include="Work\right arrow hilite.bmp" />
+    <Image Include="Work\right arrow hilite.tga" />
+    <Image Include="Work\right arrow normal.bmp" />
+    <Image Include="Work\right arrow normal.tga" />
+    <Image Include="Work\slider-h-a.tga" />
+    <Image Include="Work\slider-h.tga" />
+    <Image Include="Work\slider-v-a.tga" />
+    <Image Include="Work\slider-v.tga" />
+    <Image Include="Work\titlebar.jpg" />
+    <Image Include="Work\XP9_close.BMP" />
     <Image Include="worldmap copy.tga" />
     <Image Include="worldmap new.tga" />
     <Image Include="worldmap wip.tga" />
@@ -395,7 +456,160 @@
   <ItemGroup>
     <None Include="actskn43.tlh" />
     <None Include="color" />
+    <None Include="data\091 Beta.zip" />
+    <None Include="data\Blurb.doc" />
+    <None Include="data\Install script DR.iep" />
+    <None Include="data\Install script.iep" />
+    <None Include="data\register.bat" />
+    <None Include="data\resume.zip" />
+    <None Include="data\Thumbs.db" />
+    <None Include="data\WinConvert.zip" />
+    <None Include="data\WinConvert98.zip" />
+    <None Include="data\WorldTime Certificate.ARM" />
+    <None Include="data\WorldTime Certificate.ArmV2" />
+    <None Include="data\WorldTime Certificate.KeyLog" />
+    <None Include="data\WorldTime Certificate.Stats" />
+    <None Include="data\worldtime2003 v1.0.pml" />
     <None Include="default.skn" />
+    <None Include="htmlhelp\Alarms.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Buy.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Choose Skin.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\comments.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\features.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\introduction.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Locations.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Make skin.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Members.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Overview.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Preferences.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Preferences_location.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Preferences_map.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Preferences_sounds.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Preferences_template.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Preferences_time.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Quick Start.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\release notes.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Setup.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\support.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\Table of Contents.hhc" />
+    <None Include="htmlhelp\welcome.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Alarms.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Buy.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Choose Skin.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\comments.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\features.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\introduction.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Locations.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Make skin.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Members.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Overview.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Preferences.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Preferences_location.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Preferences_map.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Preferences_sounds.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Preferences_template.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Preferences_time.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Quick Start.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\release notes.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\Setup.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\support.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_cnf\welcome.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_pvt\_vti_cnf\_x_todo.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_pvt\_vti_cnf\_x_todoh.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_pvt\_x_todo.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="htmlhelp\_vti_pvt\_x_todoh.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
     <None Include="Localtime_green.skn" />
     <None Include="Localtime_Orange.skn" />
     <None Include="locations.dat" />
@@ -417,17 +631,55 @@
     <None Include="Skin.opt" />
     <None Include="Skin.plg" />
     <None Include="Skin.vcproj" />
+    <None Include="Skins\Blue_Notepad.skn" />
+    <None Include="Skins\default.skn" />
+    <None Include="Skins\Everquest.skn" />
+    <None Include="Skins\Localtime_green.skn" />
+    <None Include="Skins\Localtime_Orange.skn" />
+    <None Include="Skins\locations_WorkInProgress.woe" />
+    <None Include="Skins\locations_WorkInProgress.wt2003" />
+    <None Include="Skins\members_WorkInProgress.woe" />
+    <None Include="Skins\members_WorkInProgress.wt2003" />
+    <None Include="Skins\Oz.skn" />
+    <None Include="Skins\Small_Glass.skn" />
+    <None Include="Skins\Title_Bar.skn" />
+    <None Include="Skins\Title_Bar2.skn" />
+    <None Include="Skins\Transparent.skn" />
+    <None Include="Skins\Worldmap.skn" />
     <None Include="Small_Glass.skn" />
+    <None Include="Sounds\locations_WorkInProgress.woe" />
+    <None Include="Sounds\members_WorkInProgress.woe" />
     <None Include="Transparent.skn" />
     <None Include="UpgradeLog.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="Work\25.psd" />
+    <None Include="Work\blue button template.psd" />
+    <None Include="Work\notepade.psd" />
+    <None Include="Work\red button template.psd" />
+    <None Include="Work\Thumbs.db" />
     <None Include="Worldmap.skn" />
     <None Include="WorldTime2003.chm" />
     <None Include="WorldTime2003.dsw" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="data\license.txt" />
+    <Text Include="data\newdefault.txt" />
+    <Text Include="data\readne 1st.txt" />
     <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Sounds\ALARM1.WAV" />
+    <Media Include="Sounds\ALARM2.WAV" />
+    <Media Include="Sounds\ALARM3.WAV" />
+    <Media Include="Sounds\ALARM4.WAV" />
+    <Media Include="Sounds\ALARM5.WAV" />
+    <Media Include="Sounds\ALARM6.WAV" />
+    <Media Include="Sounds\ALARM7.WAV" />
+    <Media Include="Sounds\ALARM8.WAV" />
+    <Media Include="Sounds\CHIME1.WAV" />
+    <Media Include="Sounds\CHIME2.WAV" />
+    <Media Include="Sounds\CUCKOO1.WAV" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
