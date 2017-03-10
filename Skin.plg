@@ -1,0 +1,129 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Skin - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0xc09 /fo"Release/Skin.res" /d "NDEBUG" "C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\Skin.rc"" 
+Creating temporary file "C:\DOCUME~1\JEFFH~1\LOCALS~1\Temp\RSP1BA.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/Skin.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\alarms.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\Bstream.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DisplayLocation.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DlgAlarmDetails.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DlgAlarmMessage.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DlgAlarms.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DlgLocation.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DlgLocationDetails.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DlgMember.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DlgMemberAdd.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DlgUpdater.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\Label.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\List.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\Location.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\Member.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\OptionsDlg.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\PrefLocationPropPage.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\PrefPropSheet.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\PrefSoundsPropPage.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\PrefTemplatePropPage.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\PrefTimePropPage.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\Skin.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\SkinDlg.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\Sounds.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\TimeSync.cpp"
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\TrayIcon.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\JEFFH~1\LOCALS~1\Temp\RSP1BA.tmp" 
+Creating temporary file "C:\DOCUME~1\JEFFH~1\LOCALS~1\Temp\RSP1BB.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/Skin.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\JEFFH~1\LOCALS~1\Temp\RSP1BB.tmp" 
+Creating temporary file "C:\DOCUME~1\JEFFH~1\LOCALS~1\Temp\RSP1BC.tmp" with contents
+[
+winmm.lib dsound.lib htmlhelp.lib msimg32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/WorldTime.pdb" /machine:I386 /out:"release\WorldTime.exe" 
+".\Release\alarms.obj"
+".\Release\Bstream.obj"
+".\Release\DisplayLocation.obj"
+".\Release\DlgAlarmDetails.obj"
+".\Release\DlgAlarmMessage.obj"
+".\Release\DlgAlarms.obj"
+".\Release\DlgLocation.obj"
+".\Release\DlgLocationDetails.obj"
+".\Release\DlgMember.obj"
+".\Release\DlgMemberAdd.obj"
+".\Release\DlgUpdater.obj"
+".\Release\Label.obj"
+".\Release\List.obj"
+".\Release\Location.obj"
+".\Release\Member.obj"
+".\Release\OptionsDlg.obj"
+".\Release\PrefLocationPropPage.obj"
+".\Release\PrefPropSheet.obj"
+".\Release\PrefSoundsPropPage.obj"
+".\Release\PrefTemplatePropPage.obj"
+".\Release\PrefTimePropPage.obj"
+".\Release\Skin.obj"
+".\Release\SkinDlg.obj"
+".\Release\Sounds.obj"
+".\Release\StdAfx.obj"
+".\Release\TimeSync.obj"
+".\Release\TrayIcon.obj"
+".\Release\Skin.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\JEFFH~1\LOCALS~1\Temp\RSP1BC.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+alarms.cpp
+Bstream.cpp
+DisplayLocation.cpp
+DlgAlarmDetails.cpp
+DlgAlarmMessage.cpp
+DlgAlarms.cpp
+DlgLocation.cpp
+DlgLocationDetails.cpp
+DlgMember.cpp
+DlgMemberAdd.cpp
+DlgUpdater.cpp
+Label.cpp
+List.cpp
+Location.cpp
+Member.cpp
+OptionsDlg.cpp
+PrefLocationPropPage.cpp
+PrefPropSheet.cpp
+PrefSoundsPropPage.cpp
+PrefTemplatePropPage.cpp
+Generating Code...
+C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DisplayLocation.cpp(328) : warning C4700: local variable 'sunriseHours' used without having been initialized
+C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\DisplayLocation.cpp(331) : warning C4700: local variable 'sunsetHours' used without having been initialized
+Compiling...
+PrefTimePropPage.cpp
+Skin.cpp
+SkinDlg.cpp
+Sounds.cpp
+TimeSync.cpp
+TrayIcon.cpp
+Generating Code...
+Linking...
+Skin.obj : error LNK2001: unresolved external symbol "public: __thiscall RegistryCollection::RegistryCollection(char const *)" (??0RegistryCollection@@QAE@PBD@Z)
+SkinDlg.obj : error LNK2001: unresolved external symbol "public: bool __thiscall RegistryCollection::ReadRegistry(void)" (?ReadRegistry@RegistryCollection@@QAE_NXZ)
+SkinDlg.obj : error LNK2001: unresolved external symbol "public: bool __thiscall RegistryCollection::WriteRegistry(void)" (?WriteRegistry@RegistryCollection@@QAE_NXZ)
+release\WorldTime.exe : fatal error LNK1120: 3 unresolved externals
+Error executing link.exe.
+
+
+
+<h3>Results</h3>
+WorldTime.exe - 4 error(s), 2 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,182 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<LINK REL=stylesheet TYPE="text/css"
+HREF=onlineTime.css>
+</head>
+
+<body>
+
+<h4>How to make your own skin</h4>
+
+<p>The skins are built using a product called
+<a href="http://www.softshape.com/activeskin/">ActiveSkin</a> You will need to 
+download this product to create your own skin, or supply me the bitmap images 
+and I can build the skin. If you do plan on making a skin, model the default 
+skin ( <i>default.skn</i> ), making sure all the field names are the same. You can omit any field name 
+you wish to include only the features you want in your skin. The number of slots 
+available for displaying locations ( textx_colx fields ) is only limited to how 
+many you wish to place in your skin and your screen resolution. Large skins with 
+lots of data consume more processor usage.</p>
+<p>If you can supply a decent skin ( as defined by us ) which we will put on our 
+skin update site, you will receive a free registration for WorldTime2003.</p>
+<p>Field name definitions are as follows:</p>
+<table border="1" cellpadding="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+  <tr>
+    <td width="50%"><font size="2">Close</font></td>
+    <td width="50%"><font size="2">Button for terminating the application</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Min</font></td>
+    <td width="50%"><font size="2">Minimize Button</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Options</font></td>
+    <td width="50%"><font size="2">Button to display the Options Panel ( also 
+    available from the System Tray menu )</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Previous Page</font></td>
+    <td width="50%"><font size="2">Button to display previous page of display 
+    items</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Next Page</font></td>
+    <td width="50%"><font size="2">Button to display next page of display items</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Skins</font></td>
+    <td width="50%"><font size="2">Button to display the Skin Chooser dialog</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Display</font></td>
+    <td width="50%"><font size="2">Button to dusplay the Display List dialog</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Alarms</font></td>
+    <td width="50%"><font size="2">Button to display the Alarms Panel</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Settings</font></td>
+    <td width="50%"><font size="2">Button to display the user Preferences dialog</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Locations</font></td>
+    <td width="50%"><font size="2">Button to display the Locations database 
+    dialog</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Help</font></td>
+    <td width="50%"><font size="2">Button to display html help</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Localtime</font></td>
+    <td width="50%"><font size="2">Label where the local time is displayed</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Page</font></td>
+    <td width="50%"><font size="2">Page Label showing the current page number</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Alarm1....AlarmX</font></td>
+    <td width="50%"><font size="2">Alarm graphic for each display item. If an 
+    alarm is enabled for a location, then this graphic is displayed</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">Type1....TypeX</font></td>
+    <td width="50%"><font size="2">For each display item, if it contains 
+    personal details such as a persons name, then this graphic is displayed</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">dst1....dstX</font></td>
+    <td width="50%"><font size="2">Daylight Savings graphic for each display 
+    item. If the location is currently in Daylight Savings, this graphic is 
+    displayed</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">text1_col1....textX_col1</font></td>
+    <td width="50%"><font size="2">label where location details for column 1 is 
+    displayed.&nbsp; </font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">template_col1</font></td>
+    <td width="50%"><font size="2">What to display in column 1 ( 
+    Text1_col1...textN_col1 )</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">text1_col2....textX_col2</font></td>
+    <td width="50%"><font size="2">label where location details for column 2 is 
+    displayed.&nbsp; </font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">template_col2</font></td>
+    <td width="50%"><font size="2">What to display in column 1 ( 
+    Text1_col2...textN_col2 )</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">text1_col3....textX_col3</font></td>
+    <td width="50%"><font size="2">label where location details for column 3 is 
+    displayed.&nbsp; </font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">template_col3</font></td>
+    <td width="50%"><font size="2">What to display in column 1 ( 
+    Text1_col3...textN_col3 )</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">template_localtime</font></td>
+    <td width="50%"><font size="2">How localtime should be formatted ( Not 
+    implemented )</font></td>
+  </tr>
+  <tr>
+    <td width="50%">&nbsp;</td>
+    <td width="50%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="50%">&nbsp;</td>
+    <td width="50%">&nbsp;</td>
+  </tr>
+</table>
+<p>Template variables are as follows</p>
+<table border="1" cellpadding="0" cellspacing="1" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+  <tr>
+    <td width="50%"><font size="2">%n</font></td>
+    <td width="50%"><font size="2">location name ( or persons name if defined )</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">%c</font></td>
+    <td width="50%"><font size="2">country name</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">%t</font></td>
+    <td width="50%"><font size="2">time</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">%d</font></td>
+    <td width="50%"><font size="2">date</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">%o</font></td>
+    <td width="50%"><font size="2">telephone country code for this location</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">%l</font></td>
+    <td width="50%"><font size="2">Latitude/longitude</font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">%e</font></td>
+    <td width="50%"><font size="2">email </font></td>
+  </tr>
+  <tr>
+    <td width="50%"><font size="2">%p</font></td>
+    <td width="50%"><font size="2">phone number</font></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</body>
+
+</html>

@@ -1,0 +1,87 @@
+
+P {
+    font-size : x-small;
+    font-family : sans-serif;
+    color : #000080;
+    font-weight : normal;
+}
+
+P.small { 
+    font-size : x-small;
+    font-family : sans-serif;
+    color : #000080;
+    font-weight : normal;
+}
+
+P.large { 
+    font-size : x-small;
+    font-family : sans-serif;
+    font-weight : bold;
+    color : #000080;
+}
+
+P.link  {
+    color : Cyan;
+    font-size : small;
+    font-family : sans-serif;
+    font-weight : bold;
+}
+
+
+<!-- HEADINGS -->
+
+H1  {
+    color : #0000b0;
+    font-size : x-large;
+    font-family : Arial;
+}
+
+H2  {
+    color : 0000b0;
+    font-size : large;
+    font-family : Arial;
+}
+
+H3  {
+    color : 0000b0;
+    font-size : medium;
+    font-family : Arial;
+}
+
+H4  {
+    color : 0000b0;
+    font-size : small;
+    font-family : Arial;
+}
+
+A  {}
+
+A:Visited  {
+   color : blue;
+}
+
+A:Active  {
+}
+
+A:Hover  {
+   color : purple;
+}
+
+hr { 
+	color: #ffffff
+	<!-- color: #0000b0 --> 
+}
+
+BODY  {
+    font-size : x-small;
+    font-family : sans-serif;
+    color : #000020;
+    background-color : #ffffff
+}
+
+ol { 
+	 font-size: x-small; 
+	 font-family: sans-serif;
+	 color: #0000B0;
+	 font-weight: normal 
+	 }

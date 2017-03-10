@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{c56e9160-5af4-4290-9b6c-166a3257fec0}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{ac9a3f6e-923b-4d89-a5d9-0010d084ba82}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{f5515a61-8fd8-49e9-9f50-45f7068ea7ac}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="alarms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bstream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DisplayLocation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgAlarmDetails.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgAlarmMessage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgAlarms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgLocation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgLocationDetails.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMember.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMemberAdd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgUpdater.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Location.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Member.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OptionsDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrefLocationPropPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrefPropSheet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrefSoundsPropPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrefTemplatePropPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrefTimePropPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Skin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sounds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeSync.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrayIcon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Copy of Bstream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Copy of List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Copy of Location.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PrefMainPropPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Skin.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="alarms.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bstream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayLocation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgAlarmDetails.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgAlarmMessage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgAlarms.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgLocation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgLocationDetails.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMember.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMemberAdd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgUpdater.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Label.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Location.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Member.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OptionsDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrefLocationPropPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrefPropSheet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrefSoundsPropPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrefTemplatePropPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrefTimePropPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Skin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sounds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeSync.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrayIcon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Copy of Bstream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Copy of List.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PrefMainPropPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\adddisplay.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\addlocation.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\alarm.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\display.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\help.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\location.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\location_small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\locations.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\member.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Member_Small.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\preferences.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Skin.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\skins.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\template.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\updater.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="background.tga" />
+    <Image Include="Egg copy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Egg copy.tga" />
+    <Image Include="Egg.tga" />
+    <Image Include="eq button.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eq close mouse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eq close.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eq min mouse.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eq min.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eq options.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eq ss.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eq temp.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eq.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eq2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="eq3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="globe_hilite.tga" />
+    <Image Include="globe_normal.tga" />
+    <Image Include="localtime background copy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="localtime background copy.tga" />
+    <Image Include="localtime background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="localtime background.tga" />
+    <Image Include="lost dungeon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="map.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="map.tga" />
+    <Image Include="page background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SplashPicture settings.tga" />
+    <Image Include="SplashPicture.tga" />
+    <Image Include="text background 2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="text background copy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="text background copy.tga" />
+    <Image Include="text background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="text background.tga" />
+    <Image Include="text.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="worldmap copy.tga" />
+    <Image Include="worldmap new.tga" />
+    <Image Include="worldmap wip.tga" />
+    <Image Include="worldmap wip2.tga" />
+    <Image Include="worldmap.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="worldmap.tga" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Skin.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="UpgradeLog.htm" />
+    <None Include="actskn43.tlh" />
+    <None Include="color" />
+    <None Include="default.skn" />
+    <None Include="Localtime_green.skn" />
+    <None Include="Localtime_Orange.skn" />
+    <None Include="locations.dat" />
+    <None Include="locations_WorkInProgress.woe" />
+    <None Include="locations_WorkInProgress.wt2003" />
+    <None Include="map stencil 2.psd" />
+    <None Include="map stencil no text.psd" />
+    <None Include="map stencil.psd" />
+    <None Include="map with effects.psd" />
+    <None Include="map.psd" />
+    <None Include="members.dat" />
+    <None Include="members_WorkInProgress.woe" />
+    <None Include="members_WorkInProgress.wt2003" />
+    <None Include="Oz.skn" />
+    <None Include="Skin.aps" />
+    <None Include="Skin.clw" />
+    <None Include="Skin.dsp" />
+    <None Include="Skin.opt" />
+    <None Include="Skin.plg" />
+    <None Include="Skin.vcproj" />
+    <None Include="Small_Glass.skn" />
+    <None Include="Transparent.skn" />
+    <None Include="Worldmap.skn" />
+    <None Include="WorldTime2003.chm" />
+    <None Include="WorldTime2003.dsw" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

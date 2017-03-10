@@ -1,0 +1,27 @@
+LICENSE AGREEMENT: PCM Computer Systems Pty Ltd shall license this software titled "WorldTime2003" ( hereafter called 'the software' )to you only on the condition that you accept all of the terms contained in this License Agreement (the "License").
+Please read this License carefully. By accepting this license, you agree to be bound by the terms of this License.
+
+OWNERSHIP This is a license, not a sale, and as such, you do not own title to the software.
+
+LICENSE TO REGISTERED LICENSEES
+In consideration of payment of the registration fee, PCM Computer Systems Pty Ltd grants to you a non-exclusive license to use THIS copy of the software for an indefinate period.
+
+EVALUATION PERIOD
+Prior to registration, the software shall be available to use for evaluation for a period of 30 days. After that period, this license terminates. At any time, the licensee may register the program to re-establish this license, and become a registered licensee, 
+
+DISTRIBUTION the software may be freely distributable over the internet, and on media archives ( CD Roms etc ), provided that only the ORIGINAL archives available from PCM Computer Systems Pty Ltd website are used.
+
+COPYRIGHT RESTRICTIONS
+This program is copyrighted. Copying or modification of the Work is prohibited unless specifically authorized in this License.
+
+RESTRICTIONS ON USE
+You may not give your key to other persons, and in doing so, void your right to this license. You may run this software on one computer at a time.
+
+TERMINATION
+This License will automatically terminate if you fail to comply with any of its terms.
+
+UPDATES
+Updated versions may be issued from time to time. Updates shall be freely available to registered owners for a period of 1 year from registration.
+
+LIMITATION OF LIABILITY
+IN NO EVENT SHALL PCM COMPUTER SYSTEMS PTY LTD BE LIABLE TO YOU OR ANY OTHER PERSON  FOR LOSS OF BUSINESS OR PROFITS, OR FOR ANY INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF,OR INABILITY TO USE THE PRODUCT.

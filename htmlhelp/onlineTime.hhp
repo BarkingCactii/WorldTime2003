@@ -1,0 +1,12 @@
+[OPTIONS]
+Compatibility=1.1
+Compiled file=..\WorldTime2003.chm
+Contents file=Table of Contents.hhc
+Default Window=Default
+Display compile progress=No
+Full-text search=Yes
+Language=0xc09 English (Australia)
+
+[WINDOWS]
+Default="WorldTime2003 Help","Table of Contents.hhc",,,,,,,,0x2520,,0x200e,,,,,0,,,
+

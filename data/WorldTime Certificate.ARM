@@ -1,0 +1,80 @@
+
+[Project]
+BitmapSeconds=0
+CertificateCount=3
+IniStyle=ArmadilloV3
+Name=WorldTime
+NoReportClockBack=1
+ProtectDataAfter=0
+ShowLoading=0
+TargetFile=C:\Documents and Settings\Jeff H\My Documents\My Projects\Skin\Release\WorldTime.exe
+Version=100
+
+[Project#Certificate0]
+BitmapSeconds=1
+Key=DEFAULT
+KeyTypes=0x11
+Name=Shareware
+ShowRegButton=1
+V2Certificate=1
+Website=http://jeffs-software.com
+
+[Project#Certificate0#ExpireType]
+Enable=1
+ExpireType=DAYS
+Message0=This version of the Beta test for WorldTIme2003 has expired. Please download a newer version from jeffs-software.com
+Number=30
+ResetNewVer=1
+Revert=0
+WarnCount=5
+
+[Project#Certificate0#Nag]
+Delay=2
+Enable=1
+Message0=This program is not free. It is an evaluation version of copyrighted software. If you use it beyond the evaluation period, you are expected to register. Please check the program's documentation or visit the website for purchasing information.%n%nYou have %%DAYSLEFT%% day(s) remaining before this trial version expires.
+
+[Project#Certificate1]
+BitmapSeconds=1
+Key=Tightass users!
+KeyTypes=0x11
+Name=Extension
+ShowRegButton=1
+V2Certificate=1
+
+[Project#Certificate1#ExpireType]
+Enable=1
+ExpireType=DAYS
+Message0=Your extension has expired.
+Number=14
+ResetNewVer=1
+WarnCount=5
+
+[Project#Certificate1#Nag]
+Delay=2
+Enable=1
+Message0=This application is running under an extension of 14 days. Please register before expiry.
+
+[Project#Certificate2]
+BitmapSeconds=1
+Key=Cindy the Dolphin was born on 29th Dec
+KeyTypes=0x11
+Name=Registered User
+ShowRegButton=1
+V2Certificate=1
+Website=jeffs-software.com
+
+[Project#InterceptedLibs]
+Lib0=+MSVBVM50.DLL
+Lib1=+MSVBVM60.DLL
+Lib2=+VFP5R.DLL
+Lib3=+VFP6R.DLL
+Lib4=+VFP7R.DLL
+Lib5=+VFP8R.DLL
+Lib6=+PBVM70.DLL
+Lib7=+MSVCRT.DLL
+Lib8=+PROJ.DLL
+Lib9=+MSJAVA.DLL
+Lib10=+OLE32.DLL
+Lib11=+VDFVM8.DLL
+Lib12=-*
+LibCount=13

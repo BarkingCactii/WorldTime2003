@@ -1,0 +1,19 @@
+WorldTime2003 Beta Notes
+
+
+Thank you for trying out this first release!
+
+Our website
+www.jeffs-software.com
+
+Email
+comments@jeffs-software.com
+
+There is no help available with this version. I'd like to hear of any bugs, suggestions or skin ideas from you. Anyone who can come up with an approved skin will recieve a free copy of WorldTIme2003.
+
+A note about the Skins:
+
+The skins that are available are under the folder the application was installed to. They are no work of art ( 2 of them were slapped together very quick ), but serve more as an example of the variations possible. The Skins are built from ActiveSkin 4.3 ( available from www.softshape.com ), and more skins can be created and modified using the Skin Builder which is included with ActiveSkin. If you plan to create a skin please note that the Object names must remain the same, though they do not need to be present. The object names starting with template_ are templates which describe which type of data to display ie, date, time, phone number, country, latitude/longitude etc.
+
+Thanks from jeffs-software.com
+ 
